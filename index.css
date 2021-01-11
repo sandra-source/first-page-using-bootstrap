@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(56, 56, 56);
+}
+
+.margem-20{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 40px;
+}
+
+.caixa{
+    background-color: rgb(255, 255, 255);
+}
+
+.titulo-geral{
+    font-size: 3em;
+}
+
+.coluna{
+    padding: 10px;
+}
+
+.titulo-servico{
+    font-size: 2em;
+}
